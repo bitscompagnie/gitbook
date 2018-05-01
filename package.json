@@ -1,0 +1,14 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "Create books with gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Books"
+  ],
+  "author": "Emmanuel Bamba",
+  "license": "MIT"
+}
