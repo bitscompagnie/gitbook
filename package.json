@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Create books with gitbook",
   "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +13,5 @@
     "Books"
   ],
   "author": "Emmanuel Bamba",
-  "license": "MIT",
-  "devDependencies": {
-    "ebook-convert": "^2.0.1"
-  }
+  "license": "MIT"
 }
