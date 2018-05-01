@@ -10,5 +10,8 @@
     "Books"
   ],
   "author": "Emmanuel Bamba",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ebook-convert": "^2.0.1"
+  }
 }
